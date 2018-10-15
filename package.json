@@ -1,0 +1,24 @@
+{
+  "name": "Timer",
+  "version": "1.0.0",
+  "description": "Timer",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurice30120/Timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurice30120/Timer/issues"
+  },
+  "homepage": "https://github.com/maurice30120/Timer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "underscore": "^1.9.1"
+  }
+}
